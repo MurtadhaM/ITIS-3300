@@ -10,7 +10,6 @@
 
 
 <a align="center" href="https://murtadham.github.io/ITIS-3300/index.html"   >
-<strong><h1> Website URL    </h1></strong>
 </a>
 
 <p><b>PS:</b> Give me your github ID to add you ass a contributor and as soon as you commit, the website updates</p>
