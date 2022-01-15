@@ -1,7 +1,9 @@
 # ITIS-3300
-<a href="https://murtadham.github.io/ITIS-3300/index.html" >
+<h2 align="center" > <a href="https://murtadham.github.io/ITIS-3300/index.html">Link to Website 
+</a> </h2>
+
  <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1617692489/27845/digging.gif?1617692489" width="30"/> Software Req & Project Mgmt </h1>
-</a>
+</>
 
  ----
 
