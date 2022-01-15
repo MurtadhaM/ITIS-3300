@@ -1,5 +1,5 @@
 # ITIS-3300
- <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1617692489/27845/digging.gif?1617692489" width="30"/> Software Requirement Group Project</h1>
+ <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1617692489/27845/digging.gif?1617692489" width="30"/> Software Req & Project Mgmt </h1>
 
  ----
 
