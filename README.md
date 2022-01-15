@@ -23,4 +23,5 @@ Murtadha Marzouq
 
 
 
- <h1 align="center"><img src="https://github.com/MurtadhaM/ITIS-3300/raw/main/screenshot.png" width="300"/> Website Screenshot</h1>
+ <h1 align="center">Website Screenshot</h1>
+ <img src="https://github.com/MurtadhaM/ITIS-3300/raw/main/screenshot.png" width="500"/> 
