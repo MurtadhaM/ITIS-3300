@@ -1,4 +1,4 @@
-<h1> <b> ❤️ ITIS-3300 ❤️ </b></h1>
+<h1 align="center"> <b> ❤️ ITIS-3300 ❤️ </b></h1>
 <h2 align="center" > <a href="https://murtadham.github.io/ITIS-3300/index.html">Link to Website 
 </a> </h2>
 
